@@ -1,0 +1,13 @@
+.vscode/
+data/
+log/
+out/
+out_garesult/
+python/
+cntl.dat
+csv2mp4.py
+extract_id.csv
+extract_id.qmd
+extract_id2.csv
+main.py
+mesh2ij.py

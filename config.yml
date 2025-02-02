@@ -1,0 +1,13 @@
+# Genetic Algorithm Configuration
+num_fields: 9
+generations: 30
+mutation_rate: 0.1
+
+# Cases Configuration
+cases:
+  - rain_file: 'data/rain/rain_10ycent_36h.dat'
+    out_dir: 'out/case1'
+  # - rain_file: 'data/rain/rain2_ct.dat'
+  #   out_dir: 'out/case2'
+  # - rain_file: 'data/rain/rain3_fr.dat'
+  #   out_dir: 'out/case3'
